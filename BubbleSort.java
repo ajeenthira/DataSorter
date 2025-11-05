@@ -1,4 +1,5 @@
-package datasorter;
+// Implementation by [Sarfan] - [22UG3-0064]
+// CIT300 Assignment 2 - [BubbleSort]package datasorter;
 
 public class BubbleSort {
     private long stepCount;
@@ -53,4 +54,5 @@ public class BubbleSort {
         System.out.println("]");
         System.out.println("Steps: " + getStepCount() + " | Time: " + getTimeTaken() + " ns");
     }
+
 }
