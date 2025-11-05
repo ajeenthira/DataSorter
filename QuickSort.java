@@ -1,3 +1,5 @@
+// Implementation by [Kokilaraj] - [22ug3-0753]
+// CIT300 Assignment 2 - [QuickSort]
 package datasorter;
 
 public class QuickSort {
@@ -83,4 +85,5 @@ public class QuickSort {
         System.out.println("]");
         System.out.println("Steps: " + getStepCount() + " | Time: " + getTimeTaken() + " ns");
     }
+
 }
