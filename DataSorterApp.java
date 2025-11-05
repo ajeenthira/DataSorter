@@ -1,3 +1,5 @@
+// Implementation by K. Ajeenthira - 22UG3-0074
+// CIT300 Assignment 2 - DataSorterApp
 package datasorter;
 
 import java.util.Scanner;
@@ -262,4 +264,5 @@ public class DataSorterApp {
         DataSorterApp app = new DataSorterApp();
         app.start();
     }
+
 }
