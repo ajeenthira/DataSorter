@@ -1,3 +1,5 @@
+// Implementation by P.Thuwarakesh - 22UG3-0751 
+// CIT300 Assignment 2 - [MergeSort.java]
 package datasorter;
 
 public class MergeSort {
@@ -112,4 +114,5 @@ public class MergeSort {
         System.out.println("]");
         System.out.println("Steps: " + getStepCount() + " | Time: " + getTimeTaken() + " ns");
     }
+
 }
